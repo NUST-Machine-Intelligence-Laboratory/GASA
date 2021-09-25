@@ -29,6 +29,6 @@ python audio.py
 
 * **Results**
  The final experimental results are shown in the following table：
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/table.jpg)
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig5.jpg)
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig6.jpg)
+ ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/table.png)
+ ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig5.png)
+ ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig6.png)
