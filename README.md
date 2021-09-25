@@ -6,10 +6,21 @@ The architecture of our proposed approach is as follows
 <div align=center><img width="780" height="340" src="https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/architecture.png"/></div>
 
 ## Installation
-**Requirement**  
-* pytorch, tested on [v1.0]  
+**Environment**  
+* pytorch, tested on [v1.0.1]  
 * CUDA, tested on v9.0  
 * Language: Python 3.6
+
+Create a virtual environment with python 3.6,
+
+    $  conda create -n gasa_env python=3.6
+
+    $  conda activate gasa_env
+
+  Install all dependencies
+
+    $  pip install -r requirements.txt
+    
 ## How to use
 The code is currently tested only on GPU.
 * **Download dataset**  
