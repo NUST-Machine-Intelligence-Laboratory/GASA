@@ -2,6 +2,7 @@
 ## Introduction
 This is the Pytorch implementation for our paper: **A Hybrid Approach for Fine-Grained Cross-Media Retrieval**
 ## Network Architecture
+The architecture of our proposed approach is as follows
 ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/gan.jpg)
 ## Installation
 **Requirement**  
