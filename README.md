@@ -3,7 +3,7 @@
 This is the Pytorch implementation for our paper: **A Hybrid Approach for Fine-Grained Cross-Media Retrieval**
 ## Network Architecture
 The architecture of our proposed approach is as follows
-![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/gan.jpg)
+![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/architecture.jpg)
 ## Installation
 **Requirement**  
 * pytorch, tested on [v1.0]  
@@ -36,6 +36,6 @@ python audio.py
 * **Results**
  The final experimental results are shown in the following table：
  ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/table.png)
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig.png)
- ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/fig6.png)
+ ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/figure5.png)
+ ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/figure6.png)
  
