@@ -26,7 +26,9 @@ The code is currently tested only on GPU.
 * **Download dataset**  
 Please visit [dataset](http://59.108.48.34/tiki/FGCrossNet/).
 * **Prepare audio data**  
+```python
 python audio.py
+```
 * **Training**  
    * If you want to train the whole model from beginning using the source code, please follow the subsequent steps.
       * Download dataset to the ```dataset``` folder.
