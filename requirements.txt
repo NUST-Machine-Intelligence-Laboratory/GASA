@@ -1,0 +1,10 @@
+numpy == 1.19.5
+librosa
+
+scipy==1.5.4
+matplotlib==3.3.4
+torch==1.0.1  -f https://download.pytorch.org/whl/torch_stable.html
+torchvision==0.2.2
+Pillow==6.2.1
+
+
