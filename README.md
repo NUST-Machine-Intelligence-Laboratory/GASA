@@ -1,5 +1,5 @@
 ## Introduction
-source code for our paper GASAnet: **Generative Adversarial and Self Attention Based Fine-Grained Cross-Modal Retrieval**
+source code for our paper: **A Hybrid Approach for Fine-Grained Cross-Media Retrieval**
 ## Network Architecture
 ![](https://github.com/gasanet/GASA/blob/master/gan.jpg)
 ## Installation
