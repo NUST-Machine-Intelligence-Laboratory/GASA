@@ -48,7 +48,8 @@ $  python audio.py
       ```
 
 * **Results**
- The final experimental results are shown in the following table：
+ 
+ &emsp;&emsp;The final experimental results are shown in the following table：    
  ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/table.png)
  ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/figure5.png)
  ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig/figure6.png)
