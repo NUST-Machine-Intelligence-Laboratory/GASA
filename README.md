@@ -1,7 +1,7 @@
 ## Introduction
 source code for our paper: **A Hybrid Approach for Fine-Grained Cross-Media Retrieval**
 ## Network Architecture
-![](https://github.com/gasanet/GASA/blob/master/gan.jpg)
+![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/gan.jpg)
 ## Installation
 **Requirement**  
 * pytorch, tested on [v1.0]  
@@ -27,3 +27,8 @@ python audio.py
       * Activate virtual environment (e.g. conda) and then run the script  
       ```python test_gan.py```
 
+* **Results**
+* The final experimental results are shown in the following table：
+* ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/result1.jpg)
+* ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig5.jpg)
+* ![](https://github.com/NUST-Machine-Intelligence-Laboratory/GASA/blob/main/fig6.jpg)
